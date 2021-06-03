@@ -240,6 +240,7 @@ a:focus {
 	justify-self: start;
 	z-index: 10;
 	padding: 0 1em 0.15em;
+	color:var(--background-color)
 }
 
 .content__info {
